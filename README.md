@@ -55,28 +55,4 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## Link Youtube: [tại đây](https://www.youtube.com/watch?v=OQQucy4b3dY)
 
-## link Deploy FE: [tại đây](https://capstone-express-orm-fe.vercel.app/) (điều kiện chạy được BE mới lấy được data để render cho FE)
-
-## API: đã có giải thích chức năng và demo trong video youtube
-
-### Auth:
-
-![Alt text](image/README/image.png)
-
-### Images:
-
-![Alt text](image/README/images.jpg)
-
-### Users:
-
-![Alt text](image/README/Users.jpg)
-
-### Comment:
-
-![Alt text](image/README/Comment.jpg)
-
-### File:
-
-![Alt text](image/README/File.jpg)
